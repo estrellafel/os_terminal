@@ -1,0 +1,5 @@
+date & date &
+ls tests & ls tests &
+wait
+sleep 4 & sleep 5 &
+history

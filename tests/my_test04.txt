@@ -1,0 +1,22 @@
+sleep 6 &
+sleep 2 &
+sleep 6 &
+sleep 2 &
+sleep 6 &
+sleep 2 &
+sleep 6 &
+sleep 2 &
+sleep 6 &
+sleep 2 &
+sleep 6 &
+sleep 2 &
+sleep 8 &
+jobs
+fg 6
+fg
+fg
+fg
+fg
+fg
+jobs
+history

@@ -1,0 +1,29 @@
+ls;ls
+
+
+
+sleep 7 &
+
+sleep 8 &
+
+ls
+
+fg
+
+jobs
+
+wait
+
+history
+
+exit 
+
+ps
+
+
+ps
+
+
+w
+
+cat infile

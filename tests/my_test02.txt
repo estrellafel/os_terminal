@@ -1,0 +1,7 @@
+date
+sleep 3
+
+
+
+ls tests
+exit
