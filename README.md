@@ -1,6 +1,6 @@
 # Shell Project
 
-## Author(s):
+## Author:
 
 Felix Estrella
 
